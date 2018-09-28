@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name":"Resham Jhangiani",
+    "occupation":"Software Engineer",
+    "description":"A computer science geek",
+    "image":"profilepic.jpg",
+    "bio":"Hey there! I'm a software engineer who enjoys working at the intersection of engineering and design. I build websites and applications that provide intuitive,scalable and efficient behind the scenes.For the past year, I've been working on my Masters degree in Computer science, developing skills in web development and constantly learning and updating with new tecnologies. Lately I have been concentrating on big data analytics with Hadopp and distributed computing.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "reshamjhangiani@gmail.com",
+    "phone": "",
+    "address":{
+      "street":" ",
+      "city":"Fullerton",
+      "state":"CA",
+      "zip": "92831"
+    },
+    "website": "http://www.reshamj.com",
+    "resumedownload":"http://reshamj.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/resham-jhangiani/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/reshamj",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/i_resham_j",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"California State University Fullerton",
+        "degree":"Masters in Computer Science",
+        "graduated":"May 2019",
+        "description":"Concentrating towards distributed systems, hadoop stack and full stack development"
+      },
+      {
+        "school":"University of Pune",
+        "degree":"Bachelors of Engineering ",
+        "graduated":"May 2016",
+        "description":" Information Technology "
+      }
+    ],
+    "work":[
+      {
+        "company":"Belkin International",
+        "title":"Engineering Intern",
+        "years":"Summer 2018",
+        "description":" Python test development"
+      },
+      {
+        "company":"HCL Technologies",
+        "title":"Software Engineer ",
+        "years":"June  2016 - July 2017",
+        "description":" Full stack web development"
+      }
+    ],
+
+    "programminglanguages" : ["C  ,  C++  ,  Python ,    Java ,  HTML , CSS , JavaScript (ES6), SQL"],
+      "frameworks" : ["AngularJS, React, Node, D3"],
+    "database" : ["SQL , MongoDB , Cassandra"],
+
+    "tools" : ["Git , Eclipse ,  NetBeans ,  Google Chrome ,  Bash"],
+
+    "hpc" : ["MPI , NVIDIA CUDA , Map Reduce, HDFS ,Spark"],
+
+    "devops" : ["Docker , AWS"],
+
+    "projects":[
+      {
+        "name":"Recognition and Classification System with Deep Learning and machine",
+        "description":"An advanced system that is able to (i) Recognize and classify objects in real time, images, video (ii) Facialrecognition among trained data set.",
+        "technologies" : ["python",  "Tensorflow"  , "Html" , "Flask"]
+      },
+      {
+        "name":"BI Visualization",
+        "description":"The website enables users to plugin data files in form of json/xml/excel sheets and apply runtime business analytics tools and visualize data using D3js charts and graphs for identifying hidden insights in data",
+        "technologies":["JavaScript", "Html","python", "Flask", "GoogleAPI", "MongoDB"]
+      },
+      {
+        "name":"Emotion Recognition in Text using Information Retrieval Rules & Machine Learning",
+        "description":"Developed a supervised machine learning classifier capable of predicting and classifying human emotions in textdata. The intermediate input to the algorithm was initially processed by NLP tools and customized Information retrieval rules.",
+        "technologies":["Java", "GlassFish Server", "K-means Clustering", "Naive-Bayes"]
+      },
+      {
+        "name":"Click Stream Data Analysis",
+        "description":"Analysis of Wikipedia clickstream data, to generate heat maps displaying most viewed Zones of the website.",
+        "technologies":["Java", "Cassandra"]
+      },
+      {
+        "name": "Library Management System",
+        "description":"A library management software integrated with SQL for CRUD data operations",
+        "technologies":["C++", "SQL"]
+      }
+    ],
+    "articles": [
+      {
+        "title":"Tree Traversal Algorithms with CUDA",
+        "category":"Parallel Computing",
+        "url":"https://www.linkedin.com/pulse/tree-traversal-algorithms-cuda-resham-jhangiani/"
+      },
+      {
+        "title":"Asynchronous journey of JavaScript",
+        "category":"JavaScript",
+        "url":"https://www.linkedin.com/pulse/asynchronous-journey-javascript-resham-jhangiani/"
+      }
+    ]
+  }
+}
